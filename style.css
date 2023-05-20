@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Anuphan:wght@200&family=Bebas+Neue&family=Instrument+Serif&family=Oswald:wght@700&family=Titillium+Web:wght@200&display=swap');
+body {
+  background-color: rgb(77, 2, 96);  
+}
+
+h1 {
+    text-shadow: 3px 3px 3px blue;
+    color: rgb(255, 132, 0);
+    text-align: center;
+    font-family: 'Bebas Neue' , 'sans-serif';
+    font-size: 70px;
+    opacity: 1;
+}
+
+p {
+    font-size: 16px ;
+    color: rgb(216, 216, 216);
+    letter-spacing: 1px;
+    word-spacing: 5px;
+    line-height: 20px;
+    font-family: 'Anuphan', sans-serif;
+    text-align: justify;
+}
+
+a {
+  font-weight: 700
+  ;
+  text-decoration: none;
+  font-size: 16px;
+  color: rgb(30, 195, 210);
+  text-align: center;
+}
+
+span {
+  font-size: 12px;
+  font-family: 'Bebas-Neue','sans serif';
+  color: chocolate;
+  text-align: center;
+}
+
+  .texto {
+    font-family:'Times New Roman', Times, serif;
+    font-weight: lighter;
+
+  }
+
+
+/*colores
+hex rrggbb (colores hexadecimales)
+ negro= #000000
+rgb red green blue 
+rojo = rgb=255
+
+para los colores página: Color Hunt
+
+/*esto es un comentario*/
+
+
